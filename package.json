@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Keith-CY/molecule-javascript-template#readme",
   "dependencies": {
-    "molecule-javascript": "0.1.5"
+    "molecule-javascript": "0.1.8"
   },
   "devDependencies": {
     "@babel/core": "7.8.4",
